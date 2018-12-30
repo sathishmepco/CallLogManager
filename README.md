@@ -2,7 +2,7 @@
 This project shows how to read call logs from Android
 
 # Download the sample Apk
-<a href="https://github.com/sathishmepco/CallLogManager/blob/master/app/release/Call%20Log%20Manager.apk"  download> Click here to download the apk file </a>
+<a href="/app/release/Call Log Manager.apk?raw=true" download="Call Log Manager.apk" target="_blank"> Download Call Manager  Apk </a>
 
 <img src="/s1.png"/>
 <img src="/s2.png"/>
